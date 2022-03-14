@@ -2,4 +2,4 @@ Olá, me chamo Erick e sou estudante de Sistemas de Informação, atualmente meu
 Atualmente estudo:
   -Spring
   -Postgresql
-  -Angular
+  -Angular/React
